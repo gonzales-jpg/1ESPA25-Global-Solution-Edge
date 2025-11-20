@@ -11,6 +11,10 @@ A proposta do desafio incentiva o uso de tecnologia e inovação para criar solu
 
 ---
 
+<img width="906" height="754" alt="image" src="https://github.com/user-attachments/assets/7c8238e3-7401-47b1-a3f8-d97f259746ed" />
+
+---
+
 ## Contexto de Aplicação – Pequenos Comércios e Estoque Inteligente  
 Em pequenos mercados, mercearias ou farmácias, a falta de controle visual do estoque nas prateleiras é comum.  
 Quando um produto acaba e ninguém percebe:
